@@ -1,5 +1,5 @@
 ---
-name: red-note-imitation-writing
+name: xhs-imitation-writing
 description: >
   AI-powered Xiaohongshu (RED) note imitation writing. Analyzes viral post
   structure, style, and traffic logic, then generates original differentiated
